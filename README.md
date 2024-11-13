@@ -1,2 +1,3 @@
 # MyMarket
-Grocery manager
+Web Grocery manager
+Download the RAR archive, the project is in...
